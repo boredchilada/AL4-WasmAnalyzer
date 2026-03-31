@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.git/
+.github/
+*.md
+test_files/
+tests/
+venv/
+CLAUDE.md
