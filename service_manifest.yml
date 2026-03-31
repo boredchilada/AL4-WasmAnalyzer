@@ -5,7 +5,7 @@ description: >
   exports, data section strings, and function signatures. Detects cryptomining,
   embedded JavaScript, HTML smuggling, and other malicious patterns.
 
-accepts: executable/wasm|application/wasm
+accepts: executable/web/wasm
 rejects: empty|metadata/.*
 
 stage: CORE
